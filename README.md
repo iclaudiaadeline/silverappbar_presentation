@@ -53,14 +53,14 @@ git clone :https://github.com/iclaudiaadeline/silverappbar_presentation.git
 
 ## Navigate into the project folder:
 
--cd sliver_appbar_demo
+- cd sliver_appbar_demo
 
 
 ## Get dependencies:
 
--flutter pub get
+- flutter pub get
 
--Run the app:
+- Run the app:
 
 -flutter run
 
@@ -69,11 +69,11 @@ git clone :https://github.com/iclaudiaadeline/silverappbar_presentation.git
 
  ## Technologies Used
 
--Flutter
+- Flutter
 
--Dart
+- Dart
 
--Material Design
+- Material Design
 
 ## Presentation Date
 
