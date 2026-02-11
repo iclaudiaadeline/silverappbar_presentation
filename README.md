@@ -27,6 +27,10 @@ Travel apps
 
 SliverAppBar is a scroll-aware app bar that expands, collapses, and reacts dynamically to scrolling inside a CustomScrollView.
 
+## Screenshot
+
+![alt text](<image.png>)
+
  ## Three Properties Demonstrated
 1 expandedHeight
 expandedHeight: 250.0,
@@ -79,9 +83,7 @@ Get dependencies:
 
 -flutter run
 
-## Screenshot
 
-![alt text](<image.png>)
 
 
  ## Technologies Used
