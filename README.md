@@ -17,11 +17,11 @@ This behavior is commonly used in:
 
 Travel apps
 
-News apps
+-News apps
 
-E-commerce apps
+-E-commerce apps
 
-Social media apps
+-Social media apps
 
 ## Widget Demonstrated: SliverAppBar
 
@@ -68,29 +68,20 @@ git clone :https://github.com/iclaudiaadeline/silverappbar_presentation.git
 
 Navigate into the project folder:
 
-cd sliver_appbar_demo
+-cd sliver_appbar_demo
 
 
 Get dependencies:
 
-flutter pub get
+-flutter pub get
 
-Run the app:
+-Run the app:
 
-flutter run
+-flutter run
 
 ## Screenshot
 
 ![alt text](<image.png>)
-
-
-
-
-
-
-
-M
-
 
 
  ## Technologies Used
