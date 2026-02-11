@@ -1,9 +1,9 @@
- Description
+## Description
 
 This Flutter project demonstrates how the SliverAppBar widget creates an expandable and scroll-responsive app bar.
 The demo simulates a simple tourism app for Rwanda where the app bar expands with an image and collapses while scrolling through a list of tourist places.
 
- Real-World Use Case
+ ## Real-World Use Case
 
 This demo represents a tourism mobile application where:
 
@@ -23,11 +23,11 @@ E-commerce apps
 
 Social media apps
 
- Widget Demonstrated: SliverAppBar
+## Widget Demonstrated: SliverAppBar
 
 SliverAppBar is a scroll-aware app bar that expands, collapses, and reacts dynamically to scrolling inside a CustomScrollView.
 
- Three Properties Demonstrated
+ ## Three Properties Demonstrated
 1 expandedHeight
 expandedHeight: 250.0,
 
@@ -38,7 +38,7 @@ Increasing the value makes the header image taller.
 
 Useful when displaying large images (e.g., tourism, food, products).
 
-pinned
+2 pinned
 pinned: true,
 
 
@@ -48,7 +48,7 @@ If set to false, the app bar disappears completely.
 
 Useful for keeping navigation always accessible.
 
-3️ floating
+3 floating
 floating: false,
 
 
@@ -58,9 +58,9 @@ If false, it waits until reaching the top.
 
 Improves user experience in long scrollable pages.
 
- How to Run the Project
+ ## How to Run the Project
 
-Clone the repository:
+## Clone the repository:
 
 git clone :https://github.com/iclaudiaadeline/silverappbar_presentation.git
 
@@ -75,25 +75,25 @@ Get dependencies:
 
 flutter pub get
 
-
 Run the app:
 
 flutter run
 
 ## Screenshot
 
-(Add your screenshot here like this)
-
-[text](<../OneDrive/Pictures/Screenshots 1>)
+![alt text](<image.png>)
 
 
-Make sure:
 
-The screenshot file is inside your project folder
 
-You commit and push it to GitHub
 
- Technologies Used
+
+
+M
+
+
+
+ ## Technologies Used
 
 Flutter
 
@@ -101,7 +101,7 @@ Dart
 
 Material Design
 
- Presentation Date
+## Presentation Date
 
 In-class presentation date: 02.11.2026
 
